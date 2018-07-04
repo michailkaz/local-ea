@@ -53,9 +53,9 @@ https://localea.azurewebsites.net
 We use [BitBucket](https://bitbucket.org) for versioning. No versions are available, the repository is private.
 
 ## The MVSquared Team
-* **Michail Kaz** - [MichailKaz](https://github.com/michailkaz)
-* **Vasiliki** - [Vasiliki-t](https://github.com/vasiliki-t)
-* **Mike Magenta** - [Magentapowa](https://github.com/magentapowa)
+* **Michail Kazdaglis** - [MichailKaz](https://github.com/michailkaz)
+* **Vasiliki Tavri** - [Vasiliki-t](https://github.com/vasiliki-t)
+* **Mike Mardas** - [Magentapowa](https://github.com/magentapowa)
 * **Vanessa Galanaki** - [Souko](https://github.com/VanessaGalanaki)
 
 
